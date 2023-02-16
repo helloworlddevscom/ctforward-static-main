@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ctforward.org	TRUE	/	FALSE	1999999999	_ctforward_session	K3ZidThNeFdoNEhmV1JuMld4anRudUl2SXFManRqTmR3d3FpVkNCVUJ0ZDVyMlV0N0xXSTNQcXJMYzFqaDlsWVN5UUh4M3lqczNYVmR3UHZhQndyakxWZzRoZkRNNk5ETHZ3cjdTSk5qdXFiL1UxRnRJWExRdjQyK1NLY04zcFNZeGx5NmZZUG5FdGhnQ0QzV3JRb1dBPT0tLWpNM3gwTkdBb3RmYlZIdDgwbFJBL3c9PQ%3D%3D--2e9f5a5492d99ab809d078431fcaecb565020edd
+
